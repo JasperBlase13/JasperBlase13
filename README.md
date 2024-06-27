@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jasper Dominic Blase!
 - 👀 I’m interested in Software and IT Concepts
-- 🌱 I’m currently learning Web Development and improving programming skills
-- 💞️ I’m looking to collaborate on aspiring software developers like me.
+- 🌱 I’m currently learning Web Development and improving my programming skills
 - 📫 How to reach me ...
 
 <!---
